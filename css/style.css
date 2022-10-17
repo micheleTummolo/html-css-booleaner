@@ -90,3 +90,28 @@ main{
 .line_color{
     background-color: rgb(177, 229, 242);
 }
+
+.font_color{
+    font-size: 29px;
+    margin-top: 30px;
+    color: rgb(129, 129, 129);
+}
+
+.articles{
+    font-size: 29px;
+    font-weight: bold;
+    color: white;
+    padding: 15px;
+    margin-top: 15px;
+    width: 371px;
+    background-size: 100%;
+    height: 245px;
+}
+
+#background_img_01{
+    background-image: url(../img/monitor.jpg);
+}
+
+#background_img_02{
+    background-image: url(../img/graph.jpg);
+}
