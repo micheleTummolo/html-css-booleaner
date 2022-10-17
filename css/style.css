@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 #logo{
@@ -14,4 +15,27 @@
     background-color: rgba(78,160,255,255);
     height: 180px;
     width: 100%;
+}
+
+header{
+    margin: 25px 0px 0px 9px;
+}
+
+#titolo{
+    font-size: 70px;
+}
+
+#crediti{
+    font-size: 31px;
+    color: rgb(144, 144, 144)
+}
+
+#autore{
+    color: rgb(49, 175, 231);
+}
+
+#data{
+    font-size: 23px;
+    color: rgb(144, 144, 144)
+
 }
