@@ -37,5 +37,56 @@ header{
 #data{
     font-size: 23px;
     color: rgb(144, 144, 144)
+}
 
+main{
+    margin: 35px 0px 0px 9px;
+}
+
+#tim_photos{
+    height: 608px;
+}
+
+.photos_size{
+    height: 100%;
+}
+
+#photos_description{
+    margin-top: 11px;
+}
+
+.font_size{
+    font-size: 29px;
+    margin-top: 30px;
+    border-spacing: 0px;
+}
+
+.importante{
+    background-color: yellow;
+}
+
+.margin_ul{
+    margin-left: 24px;
+}
+
+.column_header{
+    text-align: left;
+    width: 468px;
+}
+
+.cell{
+    width: 468px;
+}
+
+.cell_1{
+    width: 918px;
+}
+
+#header_color{
+    color: white;
+    background-color: rgb(32, 169, 229);
+}
+
+.line_color{
+    background-color: rgb(177, 229, 242);
 }
